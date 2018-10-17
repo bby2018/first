@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#include<stdio.h>
+main(){
+pront("Hello world");
+}
